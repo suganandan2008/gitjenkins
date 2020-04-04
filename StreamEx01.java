@@ -11,7 +11,7 @@ public class StreamEx01 {
 	public static void main(String[] args) {
 
 		// converting array to stream
-		Stream<Employee> arrayStream = Stream.of(arrayOfEmps)
+		Stream<Employee> arrayStream = Stream.of(arrayOfEmps))
 			
 		// Iterating stream using for each
 		arrayStream.forEach(vicky-> System.out.println(vicky.getEmpName()));
