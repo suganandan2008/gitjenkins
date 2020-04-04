@@ -1,0 +1,12 @@
+ Volume in drive G is New Volume
+ Volume Serial Number is 1289-20B3
+
+ Directory of G:\jenkins_github
+
+04/04/2020  02:30 PM    <DIR>          .
+04/04/2020  02:30 PM    <DIR>          ..
+04/04/2020  02:29 PM             1,463 ConcurrentHashMapExample.class
+04/04/2020  02:10 PM             1,281 ConcurrentHashMapExample.java
+04/04/2020  02:30 PM                 0 read.txt
+               3 File(s)          2,744 bytes
+               2 Dir(s)  20,922,011,648 bytes free
